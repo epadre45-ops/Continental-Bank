@@ -1,0 +1,162 @@
+{
+  "title": "Gouvernance",
+  "hero": {
+    "title": "Excellence en gouvernance d'entreprise",
+    "description": "Une gouvernance exemplaire fondée sur l'intégrité, la transparence et la responsabilité pour garantir la confiance de nos parties prenantes.",
+    "alt": "Salle de conseil d'administration moderne - Gouvernance d'entreprise"
+  },
+  "principles": {
+    "title": "Principes de Gouvernance",
+    "description": "Notre gouvernance repose sur quatre piliers fondamentaux qui guident chaque décision et action au sein de l'institution.",
+    "transparency": {
+      "title": "Transparence",
+      "description": "Communication claire et régulière avec toutes les parties prenantes"
+    },
+    "integrity": {
+      "title": "Intégrité",
+      "description": "Respect des plus hauts standards éthiques dans toutes nos décisions"
+    },
+    "accountability": {
+      "title": "Responsabilité",
+      "description": "Engagement clair envers les actionnaires, clients et employés"
+    },
+    "fairness": {
+      "title": "Équité",
+      "description": "Traitement équitable de toutes les parties prenantes"
+    }
+  },
+  "board": {
+    "title": "Conseil d'Administration",
+    "description": "Notre conseil d'administration réunit des experts reconnus pour garantir une vision stratégique et une supervision indépendante.",
+    "members": {
+      "jean_louis": {
+        "name": "Jean-Louis Dubois",
+        "position": "Président du Conseil",
+        "background": "Ancien PDG de BNP Paribas, 35 ans d'expérience en banque d'investissement",
+        "committees": {
+          "strategic": "Comité Stratégique",
+          "risk": "Comité des Risques"
+        }
+      },
+      "marie": {
+        "name": "Marie Schmidt",
+        "position": "Vice-Présidente",
+        "background": "Ex-Directrice Générale de Deutsche Bank, experte en marchés internationaux",
+        "committees": {
+          "audit": "Comité d'Audit",
+          "nomination": "Comité de Nomination"
+        }
+      },
+      "klaus": {
+        "name": "Dr. Klaus Weber",
+        "position": "Administrateur Indépendant",
+        "background": "Professeur émérite de finance, ancien conseiller de la BCE",
+        "committees": {
+          "strategic": "Comité Stratégique",
+          "investment": "Comité d'Investissement"
+        }
+      },
+      "sophie": {
+        "name": "Sophie Laurent",
+        "position": "Administratrice Indépendante",
+        "background": "Ancienne Directrice Financière de LVMH, spécialiste en gouvernance",
+        "committees": {
+          "audit": "Comité d'Audit",
+          "esg": "Comité RSE"
+        }
+      }
+    }
+  },
+  "committees": {
+    "title": "Comités Spécialisés",
+    "description": "Nos comités spécialisés assurent une supervision approfondie dans leurs domaines d'expertise respectifs.",
+    "members_title": "Membres",
+    "meetings_title": "Réunions",
+    "focus_title": "Focus",
+    "strategic": {
+      "name": "Comité Stratégique",
+      "role": "Définit la vision stratégique et les orientations majeures",
+      "meetings": "Trimestriel",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Président)",
+        "klaus": "Dr. Klaus Weber",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "long_term_vision": "Vision long terme",
+        "international_expansion": "Expansion internationale",
+        "technological_innovation": "Innovation technologique"
+      }
+    },
+    "audit": {
+      "name": "Comité d'Audit",
+      "role": "Supervise la fiabilité des informations financières et le contrôle interne",
+      "meetings": "Trimestriel",
+      "members": {
+        "marie": "Marie Schmidt (Présidente)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "financial_audit": "Audit financier",
+        "internal_control": "Contrôle interne",
+        "regulatory_compliance": "Conformité réglementaire"
+      }
+    },
+    "risk": {
+      "name": "Comité des Risques",
+      "role": "Évalue et supervise les risques financiers et opérationnels",
+      "meetings": "Mensuel",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Président)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "credit_risk": "Risque de crédit",
+        "market_risk": "Risque de marché",
+        "operational_risk": "Risque opérationnel"
+      }
+    },
+    "nomination": {
+      "name": "Comité de Nomination",
+      "role": "Propose les nominations aux postes clés et évalue les administrateurs",
+      "meetings": "Semestriel",
+      "members": {
+        "marie": "Marie Schmidt (Présidente)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "executive_nomination": "Nomination des dirigeants",
+        "competency_assessment": "Évaluation des compétences",
+        "diversity": "Diversité"
+      }
+    },
+    "esg": {
+      "name": "Comité RSE",
+      "role": "Définit la politique de responsabilité sociale et environnementale",
+      "meetings": "Trimestriel",
+      "members": {
+        "sophie": "Sophie Laurent (Présidente)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "sustainable_development": "Développement durable",
+        "ethics": "Éthique",
+        "social_inclusion": "Inclusion sociale"
+      }
+    }
+  },
+  "ethics_compliance": {
+    "title": "Éthique et Conformité",
+    "description": "Notre engagement envers l'éthique des affaires et la conformité réglementaire est au cœur de notre culture d'entreprise.",
+    "compliance_rate": "Conformité réglementaire",
+    "ethical_incidents": "Incidents éthiques",
+    "compliance_monitoring": "Veille conformité",
+    "certification": "Certification"
+  },
+  "cta": {
+    "title": "Gouvernance d'Excellence",
+    "description": "Notre gouvernance exemplaire garantit la pérennité de notre institution et la confiance de toutes nos parties prenantes.",
+    "annual_reports": "Rapports Annuels",
+    "contact_governance": "Contact Gouvernance"
+  }
+}

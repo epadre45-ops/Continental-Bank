@@ -1,0 +1,35 @@
+/* Hero Background Styles */
+.hero-bg-gradient {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 25%, #0f3460 50%, #16213e 75%, #1a1a2e 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-bg-gradient::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 20% 50%, rgba(15, 52, 96, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 50%, rgba(22, 33, 62, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 50% 20%, rgba(26, 26, 46, 0.2) 0%, transparent 50%);
+  animation: float 20s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  33% { transform: translateY(-20px) rotate(1deg); }
+  66% { transform: translateY(20px) rotate(-1deg); }
+}
+
+.hero-pattern {
+  background-image: 
+    linear-gradient(30deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(150deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(30deg, rgba(255, 255, 255, 0.01) 1px, transparent 1px);
+  background-size: 40px 40px, 40px 40px, 20px 20px;
+  background-position: 0 0, 20px 0, 10px 10px;
+}

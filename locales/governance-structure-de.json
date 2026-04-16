@@ -1,0 +1,161 @@
+{
+  "title": "Governance",
+  "hero": {
+    "title": "Exzellenz in Unternehmensführung",
+    "description": "Eine beispielhafte Unternehmensführung, die auf Integrität, Transparenz und Verantwortung basiert, um das Vertrauen unserer Stakeholder zu gewährleisten."
+  },
+  "principles": {
+    "title": "Grundsätze der Unternehmensführung",
+    "description": "Unsere Unternehmensführung beruht auf vier grundlegenden Säulen, die jede Entscheidung und Handlung innerhalb der Institution leiten.",
+    "transparency": {
+      "title": "Transparenz",
+      "description": "Klare und regelmäßige Kommunikation mit allen Stakeholdern"
+    },
+    "integrity": {
+      "title": "Integrität",
+      "description": "Einhaltung der höchsten ethischen Standards in all unseren Entscheidungen"
+    },
+    "accountability": {
+      "title": "Verantwortlichkeit",
+      "description": "Klares Engagement gegenüber Aktionären, Kunden und Mitarbeitern"
+    },
+    "fairness": {
+      "title": "Fairness",
+      "description": "Gerechte Behandlung aller Stakeholder"
+    }
+  },
+  "board": {
+    "title": "Verwaltungsrat",
+    "description": "Unser Verwaltungsrat vereint anerkannte Experten, um eine strategische Vision und unabhängige Überwachung zu gewährleisten."
+  },
+  "board_members": {
+    "jean_louis": {
+      "name": "Jean-Louis Dubois",
+      "position": "Vorsitzender des Rates",
+      "background": "Ehemaliger CEO von BNP Paribas, 35 Jahre Erfahrung im Investment Banking",
+      "committees": {
+        "strategic": "Strategieausschuss",
+        "risk": "Risikoausschuss"
+      }
+    },
+    "marie": {
+      "name": "Marie Schmidt",
+      "position": "Vizepräsidentin",
+      "background": "Ehemalige Generaldirektorin der Deutschen Bank, Expertin für internationale Märkte",
+      "committees": {
+        "audit": "Prüfungsausschuss",
+        "nomination": "Nominierungsausschuss"
+      }
+    },
+    "klaus": {
+      "name": "Dr. Klaus Weber",
+      "position": "Unabhängiger Administrator",
+      "background": "Emeritierter Finanzprofessor, ehemaliger Berater der EZB",
+      "committees": {
+        "strategic": "Strategieausschuss",
+        "investment": "Investitionsausschuss"
+      }
+    },
+    "sophie": {
+      "name": "Sophie Laurent",
+      "position": "Unabhängige Administratorin",
+      "background": "Ehemalige Finanzdirektorin bei LVMH, Spezialistin für Unternehmensführung",
+      "committees": {
+        "audit": "Prüfungsausschuss",
+        "esg": "ESG-Ausschuss"
+      }
+    }
+  },
+  "committees": {
+    "title": "Spezialisierte Ausschüsse",
+    "description": "Unsere spezialisierten Ausschüsse gewährleisten eine vertiefte Überwachung in ihren jeweiligen Fachbereichen.",
+    "members_title": "Mitglieder",
+    "meetings_title": "Sitzungen",
+    "focus_title": "Fokus",
+    "strategic": {
+      "name": "Strategieausschuss",
+      "role": "Definiert die strategische Vision und die wichtigsten Ausrichtungen",
+      "meetings": "Vierteljährlich",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Vorsitzender)",
+        "klaus": "Dr. Klaus Weber",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "long_term_vision": "Langfristige Vision",
+        "international_expansion": "Internationale Expansion",
+        "technological_innovation": "Technologische Innovation"
+      }
+    },
+    "audit": {
+      "name": "Prüfungsausschuss",
+      "role": "Überwacht die Zuverlässigkeit der Finanzinformationen und die interne Kontrolle",
+      "meetings": "Vierteljährlich",
+      "members": {
+        "marie": "Marie Schmidt (Vorsitzende)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "financial_audit": "Finanzprüfung",
+        "internal_control": "Interne Kontrolle",
+        "regulatory_compliance": "Regulatorische Konformität"
+      }
+    },
+    "risk": {
+      "name": "Risikoausschuss",
+      "role": "Bewertet und überwacht die Finanz- und operationellen Risiken",
+      "meetings": "Monatlich",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Vorsitzender)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "credit_risk": "Kreditrisiko",
+        "market_risk": "Marktrisiko",
+        "operational_risk": "Operationelles Risiko"
+      }
+    },
+    "nomination": {
+      "name": "Nominierungsausschuss",
+      "role": "Schlägt Nominierungen für Schlüsselpositionen vor und bewertet Administratoren",
+      "meetings": "Halbjährlich",
+      "members": {
+        "marie": "Marie Schmidt (Vorsitzende)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "executive_nomination": "Führungsnominierung",
+        "competency_assessment": "Kompetenzbewertung",
+        "diversity": "Diversität"
+      }
+    },
+    "esg": {
+      "name": "ESG-Ausschuss",
+      "role": "Definiert die Politik für soziale und umweltbezogene Verantwortung",
+      "meetings": "Vierteljährlich",
+      "members": {
+        "sophie": "Sophie Laurent (Vorsitzende)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "sustainable_development": "Nachhaltige Entwicklung",
+        "ethics": "Ethik",
+        "social_inclusion": "Soziale Inklusion"
+      }
+    }
+  },
+  "ethics_compliance": {
+    "title": "Ethik und Konformität",
+    "description": "Unser Engagement für unternehmerische Ethik und regulatorische Konformität steht im Kern unserer Unternehmenskultur.",
+    "compliance_rate": "Regulatorische Konformität",
+    "ethical_incidents": "Ethische Vorfälle",
+    "compliance_monitoring": "Konformitätsüberwachung",
+    "certification": "Zertifizierung"
+  },
+  "cta": {
+    "title": "Governance Exzellenz",
+    "description": "Unsere beispielhafte Unternehmensführung gewährleistet die Nachhaltigkeit unserer Institution und das Vertrauen aller Stakeholder.",
+    "annual_reports": "Jahresberichte",
+    "contact_governance": "Kontakt Governance"
+  }
+}

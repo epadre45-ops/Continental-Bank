@@ -1,0 +1,161 @@
+{
+  "title": "Governance",
+  "hero": {
+    "title": "Excellence in Corporate Governance",
+    "description": "Exemplary governance based on integrity, transparency and accountability to ensure stakeholder trust."
+  },
+  "principles": {
+    "title": "Governance Principles",
+    "description": "Our governance is based on four fundamental pillars that guide every decision and action within the institution.",
+    "transparency": {
+      "title": "Transparency",
+      "description": "Clear and regular communication with all stakeholders"
+    },
+    "integrity": {
+      "title": "Integrity",
+      "description": "Adherence to the highest ethical standards in all our decisions"
+    },
+    "accountability": {
+      "title": "Accountability",
+      "description": "Clear commitment to shareholders, customers and employees"
+    },
+    "fairness": {
+      "title": "Fairness",
+      "description": "Fair treatment of all stakeholders"
+    }
+  },
+  "board": {
+    "title": "Board of Directors",
+    "description": "Our board of directors brings together recognized experts to ensure strategic vision and independent supervision."
+  },
+  "board_members": {
+    "jean_louis": {
+      "name": "Jean-Louis Dubois",
+      "position": "Chairman of the Board",
+      "background": "Former CEO of BNP Paribas, 35 years of experience in investment banking",
+      "committees": {
+        "strategic": "Strategic Committee",
+        "risk": "Risk Committee"
+      }
+    },
+    "marie": {
+      "name": "Marie Schmidt",
+      "position": "Vice-Chairman",
+      "background": "Former CEO of Deutsche Bank, expert in international markets",
+      "committees": {
+        "audit": "Audit Committee",
+        "nomination": "Nomination Committee"
+      }
+    },
+    "klaus": {
+      "name": "Dr. Klaus Weber",
+      "position": "Independent Director",
+      "background": "Emeritus Professor of Finance, former ECB advisor",
+      "committees": {
+        "strategic": "Strategic Committee",
+        "investment": "Investment Committee"
+      }
+    },
+    "sophie": {
+      "name": "Sophie Laurent",
+      "position": "Independent Director",
+      "background": "Former CFO of LVMH, governance specialist",
+      "committees": {
+        "audit": "Audit Committee",
+        "esg": "ESG Committee"
+      }
+    }
+  },
+  "committees": {
+    "title": "Specialized Committees",
+    "description": "Our specialized committees provide in-depth supervision in their respective areas of expertise.",
+    "members_title": "Members",
+    "meetings_title": "Meetings",
+    "focus_title": "Focus",
+    "strategic": {
+      "name": "Strategic Committee",
+      "role": "Defines strategic vision and major orientations",
+      "meetings": "Quarterly",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Chairman)",
+        "klaus": "Dr. Klaus Weber",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "long_term_vision": "Long-term vision",
+        "international_expansion": "International expansion",
+        "technological_innovation": "Technological innovation"
+      }
+    },
+    "audit": {
+      "name": "Audit Committee",
+      "role": "Supervises the reliability of financial information and internal control",
+      "meetings": "Quarterly",
+      "members": {
+        "marie": "Marie Schmidt (Chairman)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "financial_audit": "Financial audit",
+        "internal_control": "Internal control",
+        "regulatory_compliance": "Regulatory compliance"
+      }
+    },
+    "risk": {
+      "name": "Risk Committee",
+      "role": "Evaluates and supervises financial and operational risks",
+      "meetings": "Monthly",
+      "members": {
+        "jean_louis": "Jean-Louis Dubois (Chairman)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "credit_risk": "Credit risk",
+        "market_risk": "Market risk",
+        "operational_risk": "Operational risk"
+      }
+    },
+    "nomination": {
+      "name": "Nomination Committee",
+      "role": "Proposes nominations for key positions and evaluates directors",
+      "meetings": "Semi-annual",
+      "members": {
+        "marie": "Marie Schmidt (Chairman)",
+        "sophie": "Sophie Laurent"
+      },
+      "focus": {
+        "executive_nomination": "Executive nomination",
+        "competency_assessment": "Competency assessment",
+        "diversity": "Diversity"
+      }
+    },
+    "esg": {
+      "name": "ESG Committee",
+      "role": "Defines social and environmental responsibility policy",
+      "meetings": "Quarterly",
+      "members": {
+        "sophie": "Sophie Laurent (Chairman)",
+        "klaus": "Dr. Klaus Weber"
+      },
+      "focus": {
+        "sustainable_development": "Sustainable development",
+        "ethics": "Ethics",
+        "social_inclusion": "Social inclusion"
+      }
+    }
+  },
+  "ethics_compliance": {
+    "title": "Ethics and Compliance",
+    "description": "Our commitment to business ethics and regulatory compliance is at the heart of our corporate culture.",
+    "compliance_rate": "Regulatory compliance",
+    "ethical_incidents": "Ethical incidents",
+    "compliance_monitoring": "Compliance monitoring",
+    "certification": "Certification"
+  },
+  "cta": {
+    "title": "Excellence in Governance",
+    "description": "Our exemplary governance ensures the sustainability of our institution and the trust of all stakeholders.",
+    "annual_reports": "Annual Reports",
+    "contact_governance": "Contact Governance"
+  }
+}
